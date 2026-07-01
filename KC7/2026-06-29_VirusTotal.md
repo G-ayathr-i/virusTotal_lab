@@ -1,5 +1,6 @@
 # VirusTotal Fundamentals 
 
+[View Badge](VirusTotal.pdf)
 
 - Date: 29/06/2026
 - Platform: KC7
