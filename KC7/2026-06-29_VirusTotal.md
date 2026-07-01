@@ -7,7 +7,7 @@
 
 ## Overview
 
-Completed the **VirusTotal Fundamentals** module on the KC7 Cyber Platform, gaining hands-on experience using VirusTotal for malware analysis, threat intelligence, and IOC investigation. The module focused on understanding file reputation, behavioral analysis, digital signatures, MITRE ATT&CK mappings, and pivoting between related indicators to investigate cyber threats.
+Completed the VirusTotal Fundamentals module on the KC7 Cyber Platform, gaining hands-on experience using VirusTotal for malware analysis, threat intelligence, and IOC investigation. The module focused on understanding file reputation, behavioral analysis, digital signatures, MITRE ATT&CK mappings, and pivoting between related indicators to investigate cyber threats.
 
 ## Skills Gained
 
@@ -45,7 +45,7 @@ Completed the **VirusTotal Fundamentals** module on the KC7 Cyber Platform, gain
 ### Malware Identification
 
 * Identified malware families using VirusTotal intelligence.
-* Learned the role of malware loaders such as **IcedID**, which can steal credentials and download additional malware.
+* Learned the role of malware loaders such as IcedID, which can steal credentials and download additional malware.
 * Understood that malware samples are often renamed using their SHA-256 hash for easier identification.
 
 ### Behavioral Analysis
@@ -62,7 +62,7 @@ Completed the **VirusTotal Fundamentals** module on the KC7 Cyber Platform, gain
 ### Digital Signatures
 
 * Examined code-signing certificates.
-* Verified certificate status through **Details → Signature Info**.
+* Verified certificate status through Details → Signature Info.
 * Understood how attackers abuse or steal certificates to make malware appear legitimate.
 
 ### Detection Rules
